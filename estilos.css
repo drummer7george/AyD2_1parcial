@@ -3,7 +3,8 @@
 body {
 	top: 0;
 	margin: 0;
-	background: url(images/vertical.png) repeat-x top left #252525;
+	background: url(images/vertical.png) repeat-x top left #5077E9;
+    color: blue;
 }
 
 #tot {
